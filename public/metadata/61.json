@@ -1,0 +1,43 @@
+{
+  "name": "61",
+  "description": "",
+  "external_url": "",
+  "image": "61.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chicago"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Pink-Tank-Top"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Deerstalker"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "61.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

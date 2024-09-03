@@ -1,0 +1,43 @@
+{
+  "name": "36",
+  "description": "",
+  "external_url": "",
+  "image": "36.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "St.-Basil's-Cathedral"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Casual-Polo"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Propeller-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "36.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

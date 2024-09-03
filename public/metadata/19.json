@@ -1,0 +1,43 @@
+{
+  "name": "19",
+  "description": "",
+  "external_url": "",
+  "image": "https://ton-chain-telegram-mini-app.vercel.app/image/19.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sailboat"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Native-American"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "White-Fedora"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "19.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

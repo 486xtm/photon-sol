@@ -1,0 +1,43 @@
+{
+  "name": "89",
+  "description": "",
+  "external_url": "",
+  "image": "89.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Igloo"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Varsity-Jacket"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Sweatband-Navy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "89.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

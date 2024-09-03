@@ -1,0 +1,43 @@
+{
+  "name": "48",
+  "description": "",
+  "external_url": "",
+  "image": "48.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rivera"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Paisley-Button-Down"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shutter-Shades"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "48.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

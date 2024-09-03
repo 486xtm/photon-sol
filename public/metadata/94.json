@@ -1,0 +1,43 @@
+{
+  "name": "94",
+  "description": "",
+  "external_url": "",
+  "image": "94.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rice-Field"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Lewis-Harris-Tweed"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Sweatband-Navy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "94.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

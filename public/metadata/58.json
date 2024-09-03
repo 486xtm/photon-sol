@@ -1,0 +1,43 @@
+{
+  "name": "58",
+  "description": "",
+  "external_url": "",
+  "image": "58.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cruise"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Viking-Linen"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gold-Hat-with-Chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "58.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

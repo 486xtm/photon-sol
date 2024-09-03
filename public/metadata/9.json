@@ -1,0 +1,43 @@
+{
+  "name": "9",
+  "description": "",
+  "external_url": "",
+  "image": "https://ton-chain-telegram-mini-app.vercel.app/image/9.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Piccadilly"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Pink-Tank-Top"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Propeller-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

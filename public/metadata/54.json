@@ -1,0 +1,43 @@
+{
+  "name": "54",
+  "description": "",
+  "external_url": "",
+  "image": "54.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Basketball-Court"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Ban-Goh-Hawaiian-T"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wayfarer"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "54.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

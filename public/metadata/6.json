@@ -1,0 +1,43 @@
+{
+  "name": "6",
+  "description": "",
+  "external_url": "",
+  "image": "https://ton-chain-telegram-mini-app.vercel.app/image/6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swiss-Alps"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Argyle"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rowdy-Drifter-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

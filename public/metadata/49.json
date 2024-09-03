@@ -1,0 +1,43 @@
+{
+  "name": "49",
+  "description": "",
+  "external_url": "",
+  "image": "49.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Saloon"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Pink-Tank-Top"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Red-Bandana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "49.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

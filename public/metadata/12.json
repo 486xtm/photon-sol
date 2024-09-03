@@ -1,0 +1,43 @@
+{
+  "name": "12",
+  "description": "",
+  "external_url": "",
+  "image": "https://ton-chain-telegram-mini-app.vercel.app/image/12.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stadium"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Velvet-Party"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gucci-Sunglasses"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "12.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "51",
+  "description": "",
+  "external_url": "",
+  "image": "51.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art-Gallery"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Flannel-Shirt"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Deerstalker"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "51.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

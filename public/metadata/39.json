@@ -1,0 +1,43 @@
+{
+  "name": "39",
+  "description": "",
+  "external_url": "",
+  "image": "39.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Restaurant"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Leather-Vest-with-Chain"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Deerstalker"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "39.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

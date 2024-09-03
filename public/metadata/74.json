@@ -1,0 +1,43 @@
+{
+  "name": "74",
+  "description": "",
+  "external_url": "",
+  "image": "74.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Harry-Winston"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Rugby-Polo"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gold-Hat-with-Chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "74.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

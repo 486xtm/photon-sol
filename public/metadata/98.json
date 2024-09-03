@@ -1,0 +1,43 @@
+{
+  "name": "98",
+  "description": "",
+  "external_url": "",
+  "image": "98.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Champs-Élysées"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Casual-Polo"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rowdy-Drifter-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "98.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

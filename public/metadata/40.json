@@ -1,0 +1,43 @@
+{
+  "name": "40",
+  "description": "",
+  "external_url": "",
+  "image": "40.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arabian-Desert"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Cream-Knit-Jumper"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Steampunk"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "40.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

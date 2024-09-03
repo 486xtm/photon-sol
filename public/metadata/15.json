@@ -1,0 +1,43 @@
+{
+  "name": "15",
+  "description": "",
+  "external_url": "",
+  "image": "https://ton-chain-telegram-mini-app.vercel.app/image/15.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pool"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Flannel-Shirt"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trapper-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "15.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

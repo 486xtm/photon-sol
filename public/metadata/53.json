@@ -1,0 +1,43 @@
+{
+  "name": "53",
+  "description": "",
+  "external_url": "",
+  "image": "53.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swiss-Alps"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Track-Sweatshirt"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gold-Hat-with-Chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "53.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

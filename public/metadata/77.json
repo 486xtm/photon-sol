@@ -1,0 +1,43 @@
+{
+  "name": "77",
+  "description": "",
+  "external_url": "",
+  "image": "77.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bus"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Native-American"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rowdy-Drifter-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "77.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

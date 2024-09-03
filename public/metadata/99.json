@@ -1,0 +1,43 @@
+{
+  "name": "99",
+  "description": "",
+  "external_url": "",
+  "image": "99.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Piccadilly"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Velvet-Party"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Propeller-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "99.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

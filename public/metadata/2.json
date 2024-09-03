@@ -1,0 +1,43 @@
+{
+  "name": "2",
+  "description": "",
+  "external_url": "",
+  "image": "https://ton-chain-telegram-mini-app.vercel.app/image/2.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bus"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Viking-Linen"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trucker-Akuma-Gouku"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

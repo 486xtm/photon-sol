@@ -1,0 +1,43 @@
+{
+  "name": "96",
+  "description": "",
+  "external_url": "",
+  "image": "96.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hawaii"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Casual-Polo"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Merchant-Captain-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "96.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

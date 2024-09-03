@@ -1,0 +1,43 @@
+{
+  "name": "85",
+  "description": "",
+  "external_url": "",
+  "image": "85.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bali"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Hanfu"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trucker-Akuma-Gouku"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "85.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

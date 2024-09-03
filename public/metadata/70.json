@@ -1,0 +1,43 @@
+{
+  "name": "70",
+  "description": "",
+  "external_url": "",
+  "image": "70.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lake-Baikal"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Gold-Court-Jacket"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Foxwif-hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "70.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

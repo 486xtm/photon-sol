@@ -10,7 +10,7 @@ const NewPairs = () => {
     const [enabled, setEnabled] = useState(true);
     const [searchsol, setSearchSol] = useState('0.0');
 
-    const toggleSwitch = () => setEnabled(!enabled);
+    const toggleSwitch = () => setEnabled(!enabled);    
     
     return (
         <div style={{color: 'white'}} className='px-4'>

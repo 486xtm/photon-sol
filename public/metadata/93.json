@@ -1,0 +1,43 @@
+{
+  "name": "93",
+  "description": "",
+  "external_url": "",
+  "image": "93.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Harry-Winston"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Viking-Linen"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gucci-Sunglasses"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "93.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

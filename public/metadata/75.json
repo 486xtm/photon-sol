@@ -1,0 +1,43 @@
+{
+  "name": "75",
+  "description": "",
+  "external_url": "",
+  "image": "75.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tibetan"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Dashiki"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wayfarer"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "75.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

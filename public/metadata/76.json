@@ -1,0 +1,43 @@
+{
+  "name": "76",
+  "description": "",
+  "external_url": "",
+  "image": "76.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rice-Field"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Paisley-Button-Down"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rowdy-Drifter-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "76.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

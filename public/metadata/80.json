@@ -1,0 +1,43 @@
+{
+  "name": "80",
+  "description": "",
+  "external_url": "",
+  "image": "80.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arcade"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Smoking-Jacket-Tuxedo"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Kangol"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "80.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

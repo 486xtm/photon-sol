@@ -1,0 +1,43 @@
+{
+  "name": "91",
+  "description": "",
+  "external_url": "",
+  "image": "91.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Piccadilly"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Pink-Tank-Top"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Merchant-Captain-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "91.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

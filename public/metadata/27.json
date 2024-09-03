@@ -1,0 +1,43 @@
+{
+  "name": "27",
+  "description": "",
+  "external_url": "",
+  "image": "27.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aspen"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Argyle"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trapper-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "27.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

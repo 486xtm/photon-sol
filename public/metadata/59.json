@@ -1,0 +1,43 @@
+{
+  "name": "59",
+  "description": "",
+  "external_url": "",
+  "image": "59.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Miami-Beach"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Cream-Knit-Jumper"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gold-Hat-with-Chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "59.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

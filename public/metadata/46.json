@@ -1,0 +1,43 @@
+{
+  "name": "46",
+  "description": "",
+  "external_url": "",
+  "image": "46.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rodeo-Drive"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "French-Vest"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Diamond-Iced-Out"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "46.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "86",
+  "description": "",
+  "external_url": "",
+  "image": "86.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arcade"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Cargo-Vest"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trapper-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "86.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

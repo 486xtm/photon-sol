@@ -1,0 +1,43 @@
+{
+  "name": "71",
+  "description": "",
+  "external_url": "",
+  "image": "71.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fish-Market"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Cargo-Vest"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Merchant-Captain-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "71.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

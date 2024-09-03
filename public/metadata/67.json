@@ -1,0 +1,43 @@
+{
+  "name": "67",
+  "description": "",
+  "external_url": "",
+  "image": "67.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rivera"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Cream-Knit-Jumper"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Whink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Callaway"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "67.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

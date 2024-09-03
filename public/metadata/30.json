@@ -1,0 +1,43 @@
+{
+  "name": "30",
+  "description": "",
+  "external_url": "",
+  "image": "30.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Piccadilly"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Argyle"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Toncoin-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "30.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

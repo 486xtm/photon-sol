@@ -1,0 +1,43 @@
+{
+  "name": "82",
+  "description": "",
+  "external_url": "",
+  "image": "82.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sailboat"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Velvet-Party"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Gucci-Sunglasses"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "82.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

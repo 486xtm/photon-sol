@@ -1,0 +1,43 @@
+{
+  "name": "92",
+  "description": "",
+  "external_url": "",
+  "image": "92.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tennis-Court"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Smoking-Jacket-Tuxedo"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Sexy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Trapper-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "92.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

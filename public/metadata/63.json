@@ -1,0 +1,43 @@
+{
+  "name": "63",
+  "description": "",
+  "external_url": "",
+  "image": "63.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Equestrian"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Cargo-Vest"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "White-Fedora"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "63.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

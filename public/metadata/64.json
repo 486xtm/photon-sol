@@ -1,0 +1,43 @@
+{
+  "name": "64",
+  "description": "",
+  "external_url": "",
+  "image": "64.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bora-Bora"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "Black-T-shirt"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wayfarer"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "64.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

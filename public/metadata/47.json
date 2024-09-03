@@ -1,0 +1,43 @@
+{
+  "name": "47",
+  "description": "",
+  "external_url": "",
+  "image": "47.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Base Character",
+      "value": "Base-Character"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue-Eyes"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "French-Vest"
+    },
+    {
+      "trait_type": "Facial Expressions",
+      "value": "Big-Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Merchant-Captain-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "47.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
