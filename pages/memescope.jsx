@@ -48,7 +48,7 @@ export default function Home() {
             <div className="flex lg:flex-row flex-col items-center">
               <div className="flex lg:mb-0 mb-2">
                 <span className="text-[16px] font-bold mr-2">
-                  BACK FROM HELL
+                  Ruby
                 </span>
                 <img
                   style={{ boxShadow: "0 0 4px 0 rgba(84, 211, 143, .66)" }}
